@@ -1,6 +1,6 @@
 ## Has Hydropower Made the World More Flood Prone?
 This repository contains python scripts to download data and generate results as seen in the manuscript.
-Note: Certain data required to run the scripts have to be generated using RAT3.0
+<br>Note: Certain data required to run the scripts have to be generated using RAT3.0
 Link to RAT3.0 git repository: https://github.com/UW-SASWE/RAT.git
 
 ### Abstract
