@@ -1,2 +1,2 @@
-# Hydropower-And-Flood-Risk
-Contains python scripts required to generate results for manuscript titled: "Has Hydropower made the world more flood prone?"
+# Has Hydropower Made the World More Flood Prone?
+This repository contains python scripts to download data, generate results, as seen in the manuscript.
